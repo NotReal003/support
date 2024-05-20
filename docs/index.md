@@ -15,7 +15,12 @@ hero:
       link: /api-examples
 
 features:
-#  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Social Site
+    details: Visit my Social Site.
+    link: https://notreal003.github.io
+#  - title: Feature B
+#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#  - title: Feature C
+#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
