@@ -23,9 +23,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/NotReal003' }
-      { icon: 'discord', link: 'https://discord.gg/sqVBrMVQmp' }
-      { icon: 'youtube', link: 'https://youtube.com/@notnt77?si=fS_R-7sSbkZgS_NU' } 
+      { icon: 'github', link: 'https://github.com/NotReal003', icon: 'discord', link: 'https://discord.gg/sqVBrMVQmp', icon: 'youtube', link: 'https://youtube.com/@notnt77?si=fS_R-7sSbkZgS_NU' }
     ]
   }
 })
