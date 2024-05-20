@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "NotReal003 Support Desk"
-  text: "Support Help Desk"
-  tagline: My great project tagline
+  text: ""
+  tagline: Welcome the our HelpDesk
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,11 +15,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
+#  - title: Feature A
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+#  - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+#  - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
