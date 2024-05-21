@@ -3,7 +3,7 @@ This article is about the copyright notice/statement!
 
 Quick access!
 - [Copyright Statement](https://notreal003.github.io/support/copyright.md#copyright-statement)
-- [Usage Rights]([https://notreal003.github.io/support/copyright#usage-rights](https://notreal003.github.io/support/copyright#usage-rights))
+- [Usage Rights]([[https://notreal003.github.io/support/copyright#](https://notreal003.github.io/support/copyright.md#)usage-rights](https://notreal003.github.io/support/copyright#usage-rights))
 - [Attribution](https://notreal003.github.io/support/copyright#attribution)
 - [Contact Information](https://notreal003.github.io/support/copyright#contact-information).
   
