@@ -9,10 +9,10 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'SkyLine Status Page', link: 'https://oneuptime.com/status-page/7e83d796-d2af-42b5-8a08-2bb88258546a' },
       { text: 'Guild Application', link: 'https://notreal003.github.io/submissions/guild-application' },
       { text: 'Main Social Site', link: 'https://notreal003.github.io' },
-      { text: 'Player Check', link: 'https://notreal003.github.io/player’ },
-      { text: 'SkyLine Status Page', link: 'https://oneuptime.com/status-page/7e83d796-d2af-42b5-8a08-2bb88258546a' }
+      { text: 'Player Check', link: 'https://notreal003.github.io/player' },
     ],
 
     sidebar: [
