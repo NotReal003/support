@@ -10,7 +10,8 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guild Application', link: 'https://notreal003.github.io/submissions/guild-application' },
-      { text: 'Main Social Site', link: 'https://notreal003.github.io' }
+      { text: 'Main Social Site', link: 'https://notreal003.github.io' },
+      { text: ‘Player Check’, link: ‘https://notreal003.github.io/player’ }
     ],
 
     sidebar: [
