@@ -4,10 +4,10 @@ layout: home
 
 hero:
   name: "SkyLine Guild"
-  text: "HelpDesk"
+  text: "Helpdesk"
   tagline: Welcome to the our (SkyLine/NotReal003) helpdesk!
   actions:
-    - theme: brand
+    - theme: alt
       text: Markdown Examples
       link: /markdown-examples
     - theme: alt
@@ -17,8 +17,9 @@ hero:
       text: Copyright
       link: /copyright
     - theme: brand
+      text: Privacy Policy
+      link: /privacy
       
-
 features:
   - title: Social Site
     details: Visit my Social Site.
