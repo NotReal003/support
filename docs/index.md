@@ -7,12 +7,12 @@ hero:
   text: "Helpdesk"
   tagline: Welcome to the our (SkyLine/NotReal003) helpdesk!
   actions:
-    - theme: alt
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+#    - theme: alt
+#      text: Markdown Examples
+#      link: /markdown-examples
+#   - theme: alt
+#      text: API Examples
+#      link: /api-examples
     - theme: brand
       text: Copyright
       link: /copyright
