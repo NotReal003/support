@@ -7,6 +7,14 @@ export default defineConfig({
   base: '/support',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+  editLink: {
+     pattern: 'https://github.com/NotReal003/support/edit/master/docs/:path'
+      },
+  search: {
+     provider: 'local'
+      },
+        footer: {
+            copyright: '© 2024 Helpdesk | NotReal003'
     nav: [
       { text: 'Home', link: '/' },
       { text: 'SkyLine Status Page', link: 'https://oneuptime.com/status-page/7e83d796-d2af-42b5-8a08-2bb88258546a' },
