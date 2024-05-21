@@ -14,7 +14,9 @@ export default defineConfig({
      provider: 'local'
       },
   footer: {
-            copyright: '© 2024 Helpdesk | NotReal003'
+     copyright: '© 2024 Helpdesk | NotReal003'
+     },
+
     nav: [
       { text: 'Home', link: '/' },
       { text: 'SkyLine Status Page', link: 'https://oneuptime.com/status-page/7e83d796-d2af-42b5-8a08-2bb88258546a' },
