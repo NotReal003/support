@@ -14,7 +14,7 @@ export default defineConfig({
      provider: 'local'
       },
   footer: {
-     copyright: '© 2024 Helpdesk | <a href='https://notreal003.github.io> NotReal003 </a>'
+     copyright: '© 2024 Helpdesk | <a href="https://notreal003.github.io"> NotReal003 </a>'
      },
 
     nav: [
