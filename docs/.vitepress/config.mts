@@ -9,6 +9,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Guild Application', link: 'https://notreal003.github.io/submissions/guild-application' },
       { text: 'Main Social Site', link: 'https://notreal003.github.io' }
     ],
 
@@ -16,7 +17,7 @@ export default defineConfig({
       {
         text: 'Articles',
         items: [
-          { text: 'Data Collections', link: '/data-collect' },
+          { text: 'Data Collections', link: '/privacy' },
           { text: 'Privacy Policy', link: '/privacy' },
           { text: 'CopyRight Statement', link: '/copyright' }
         ]
@@ -25,7 +26,8 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/NotReal003' },
-      { icon: 'discord', link: 'https://discord.gg/sqVBrMVQmp' }
+      { icon: 'discord', link: 'https://discord.gg/sqVBrMVQmp' },
+      { icon: 'youtube', link: https://youtube.com/@notnt77?si=SnyI9neCwvr5YKOV' }
     ]
   }
 })
