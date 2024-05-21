@@ -13,7 +13,7 @@ export default defineConfig({
   search: {
      provider: 'local'
       },
-        footer: {
+  footer: {
             copyright: '© 2024 Helpdesk | NotReal003'
     nav: [
       { text: 'Home', link: '/' },
