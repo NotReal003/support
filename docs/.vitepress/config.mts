@@ -14,16 +14,18 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Articles',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Data Collections', link: '/data-collect' },
+          { text: 'Privacy Policy', link: '/privacy' },
+          { text: 'CopyRight Statement', link: '/copyright' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/NotReal003' }
+      { icon: 'github', link: 'https://github.com/NotReal003' },
+      { icon: 'discord', link: 'https://discord.gg/sqVBrMVQmp' }
     ]
   }
 })
