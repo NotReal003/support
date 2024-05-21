@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "NotReal003 Support Desk"
-  text: ""
-  tagline: Welcome the our HelpDesk
+  name: "SkyLine Guild"
+  text: "HelpDesk"
+  tagline: Welcome to the our (SkyLine/NotReal003) helpdesk!
   actions:
     - theme: brand
       text: Markdown Examples
@@ -13,6 +13,11 @@ hero:
     - theme: alt
       text: API Examples
       link: /api-examples
+    - theme: brand
+      text: Copyright
+      link: /copyright
+    - theme: brand
+      
 
 features:
   - title: Social Site
