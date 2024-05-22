@@ -8,7 +8,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
   editLink: {
-     pattern: 'https://github.com/NotReal003/support/edit/master/docs/:path'
+     pattern: 'https://github.com/NotReal003/support/edit/main/docs/:path'
       },
   search: {
      provider: 'local'
