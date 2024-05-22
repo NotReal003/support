@@ -6,6 +6,6 @@ As mentioned on our **[Social Site](https://notreal003.github.io/social) »** No
 
 When a GitHub Pages site is visited, the visitor's IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub's security practices, see **[GitHub’s Privacy Statement](https://docs.github.com/en/site-policy/privacy-poliGitHub-privacy-statement)**.
 
-::: details
+::: details Some Info that we store!
 When a player is searched on our **[Player Stats Check site](https://notreal003.github.io/player)**, we do collect the player name which was searched successfully!
 :::
