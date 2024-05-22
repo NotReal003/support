@@ -22,6 +22,9 @@ hero:
     - theme: brand
       text: Guild Application
       link: /guild-application
+    - theme: brand
+      text: Your Player Stats
+      link: /player
       
 features:
   - title: Social Site
