@@ -1,6 +1,6 @@
 # SkyLine Guild Application
 
-- Follow those steps If you want to apply to join __SkyLine__
+Follow those steps If you want to apply to join __SkyLine__
  
 ## Apply with our bots
 
@@ -20,7 +20,7 @@ Now you can apply to join the __SkyLine__ guild through the website.
 
 - Fill in your answers.
 
-- Submit Application.**
-::: PLEASE NOTE
+- Submit Application.
+::: info
 Once we review your application, we will notify you about your application being accepted or rejected through the <#1133428794506608661> channel!
 :::
