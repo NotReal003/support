@@ -27,20 +27,18 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Articles',
+        text: 'Applications / Stats',
         items: [
-          { text: 'Data Collections', link: '/privacy' },
-          { text: 'Privacy Policy', link: '/privacy' },
-          { text: 'CopyRight Statement', link: '/copyright' },
           { text: 'Guild Application', link: '/guild-application' },
           { text: 'Your Player Stats', link: '/player' }
         ]
       },
         {
-        text: 'Applications / Stats',
+        text: 'Important Articles',
         items: [
-          { text: 'Guild Application', link: '/guild-application' },
-          { text: 'Your Player Stats', link: '/player' }
+          { text: 'Data Collections', link: '/privacy' },
+          { text: 'Privacy Policy', link: '/privacy' },
+          { text: 'CopyRight Statement', link: '/copyright' }
         ]
       }
     ],
