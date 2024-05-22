@@ -35,6 +35,13 @@ export default defineConfig({
           { text: 'Guild Application', link: '/guild-application' },
           { text: 'Your Player Stats', link: '/player' }
         ]
+      },
+        {
+        text: 'Applications / Stats
+        items: [
+          { text: 'Guild Application', link: '/guild-application' },
+          { text: 'Your Player Stats', link: '/player' }
+        ]
       }
     ],
 
