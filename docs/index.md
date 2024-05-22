@@ -27,9 +27,9 @@ hero:
       link: /player
       
 features:
-  - title: Social Site
-    details: Visit my Social Site.
-    link: https://notreal003.github.io
+#  - title: Social Site
+#    details: Visit my Social Site.
+#    link: https://notreal003.github.io
 #  - title: Feature B
 #    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 #  - title: Feature C
