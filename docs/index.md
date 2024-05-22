@@ -13,12 +13,15 @@ hero:
 #   - theme: alt
 #      text: API Examples
 #      link: /api-examples
-    - theme: brand
+    - theme: alt
       text: Copyright
       link: /copyright
-    - theme: brand
+    - theme: alt
       text: Privacy Policy
       link: /privacy
+    - theme: brand
+      text: Guild Application
+      link: /guild-application
       
 features:
   - title: Social Site
