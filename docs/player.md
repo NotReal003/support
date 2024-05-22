@@ -10,9 +10,9 @@
 
 ### Informative 
 ::: warning PLEASE NOTE
-We do get NetherGames player stats through the NetherGames API and this is not the official way to get the player stats. You may visit [NetherGames Portal](https://ngmc.co/portal) for it too :)
+We do get NetherGames player stats through the NetherGames API and this is not the official way to get the player stats. You may visit [NetherGames Portal](https://ngmc.co/portal) for it too ;)
 :::
 
-::: danger Under Development 
+::: tip UNDER DEVELOPMENT 
 This future is still under development and this might have some errors.
 :::
