@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "NotReal003 Support Desk",
-  description: "NotReal003 | Support Help Desk",
+  title: "SkyLine | Support Desk",
+  description: "NotReal003 / SkyLine | Support Help Desk",
   base: '/support',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
