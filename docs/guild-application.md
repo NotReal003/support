@@ -24,6 +24,6 @@ Now you can apply to join the __SkyLine__ guild through the website.
 - Fill in your answers.
 
 - Submit Application.
-::: info
+::: tip Review Notification
 Once we review your application, we will notify you about your application being accepted or rejected on our discord server through the [#Logs](https://discord.com/channels/1133013542208020531/1133428794506608661) channel!
 :::
