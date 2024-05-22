@@ -31,7 +31,8 @@ export default defineConfig({
         items: [
           { text: 'Data Collections', link: '/privacy' },
           { text: 'Privacy Policy', link: '/privacy' },
-          { text: 'CopyRight Statement', link: '/copyright' }
+          { text: 'CopyRight Statement', link: '/copyright' },
+          { text: 'Guild Application', link: '/guild-application' }
         ]
       }
     ],
