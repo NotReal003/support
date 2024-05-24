@@ -61,9 +61,4 @@ features:
         body: JSON.stringify(payload),
     });
 }
-
-document.addEventListener('DOMContentLoaded', function() {
-    sendDiscordWebhookMessage('A user has visited the site.');
-});
-
 </script>
