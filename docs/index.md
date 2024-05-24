@@ -36,9 +36,11 @@ features:
 #    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
-<script src="/public/script.js"></script>
+This is my index.md file.
+
+<script src="public/script.js"></script>
 <script>
     document.addEventListener('DOMContentLoaded', function() {
-        sendDiscordWebhookMessage('A user has visited the helpdesk site.');
+        sendDiscordWebhookMessage('A user has visited the site.');
     });
 </script>
