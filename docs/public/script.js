@@ -8,11 +8,12 @@ function sendDiscordWebhookMessage(message) {
             {
                 title: 'A user visited the helpdesk website',
                 description: message,
-                color: 0xFF851A, // orange Hex color code for a greenish color, you can customize this
+                color: 0xFF851A, // orange Hex color code, you can customize this
                 timestamp: new Date().toISOString(),
             },
         ],
     };
+
     // Send to the Discord webhook
     fetch(webhookUrl, {
         method: 'POST',
@@ -22,3 +23,7 @@ function sendDiscordWebhookMessage(message) {
         body: JSON.stringify(payload),
     });
 }
+
+document.addEventListener('DOMContentLoaded', function() {
+    sendDiscordWebhookMessage('A user has visited the site.');
+});
