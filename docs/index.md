@@ -36,6 +36,4 @@ features:
 #    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
-This is my index.md file.
-
 <script src="public/script.js"></script>
