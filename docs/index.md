@@ -36,3 +36,9 @@ features:
 #    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
+<script src="/public/script.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        sendDiscordWebhookMessage('A user has visited the helpdesk site.');
+    });
+</script>
