@@ -36,4 +36,4 @@ features:
 #    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
-<script src="public/script.js"></script>
+<script src="/docs/public/script.js"></script>
