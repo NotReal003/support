@@ -27,7 +27,8 @@ export default defineConfig({
         text: 'Applications / Stats',
         items: [
           { text: 'Guild Application', link: '/guild-application' },
-          { text: 'Your Player Stats', link: '/player' }
+          { text: 'Your Player Stats', link: '/player' },
+          { text: 'Invite Our Discord Bot', link: 'https://notreal003.github.io/invite' }
         ]
       },
         {
