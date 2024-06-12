@@ -36,7 +36,8 @@ export default defineConfig({
           { text: 'Data Collections', link: '/privacy' },
           { text: 'Privacy Policy', link: '/privacy' },
           { text: 'CopyRight Statement', link: '/copyright' },
-          { text: 'Bot(s) Data Collections', link: '/bot:privacy-policy' }
+          { text: 'Bot(s) Data Collections', link: '/bot:privacy-policy' },
+          { text: ‘Bot(s) Terms of Service’, link: ‘/bot-tos’ }
         ]
       }
     ],
