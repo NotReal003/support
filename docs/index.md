@@ -25,6 +25,9 @@ hero:
     - theme: brand
       text: Your Player Stats
       link: /player
+    - theme: alt
+      link: /bot:privacy-policy
+      text: Our Bot(s) Privacy Policy
       
 features:
 #  - title: Social Site
