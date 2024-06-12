@@ -25,6 +25,9 @@ hero:
     - theme: brand
       text: Your Player Stats
       link: /player
+    - theme: brand
+      link: https://notreal003.github.io/invite
+      text: Invite Our Discord Bot
     - theme: alt
       link: /bot:privacy-policy
       text: Our Bot(s) Privacy Policy
