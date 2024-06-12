@@ -8,4 +8,4 @@ simple terms:
 
   ::: danger PLEASE NOTE
   We are not responsible for any actions done by you, our bot(s) may act the settings you’ve configured. We/Me/MyBot are not responsible for what was done on your Server or anywhere else.
-:::
+  :::
