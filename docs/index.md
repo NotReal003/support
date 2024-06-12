@@ -28,7 +28,9 @@ hero:
     - theme: alt
       link: /bot:privacy-policy
       text: Our Bot(s) Privacy Policy
-      
+    - theme: alt
+      link: /bot-tos
+      text: Our Bot(s) Terms of Service
 features:
 #  - title: Social Site
 #    details: Visit my Social Site.
