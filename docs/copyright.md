@@ -2,7 +2,7 @@
 This article is about the copyright notice/statement!
 
 ## Copyright Statement
-All content on this website or on notreal003.github.io, including text, graphics, and code, is the property of NotReal003 unless otherwise noted. It is protected by international copyright laws.
+All content on this website or on [https://notreal003.xyz](notreal003.xyz), including text, graphics, and code, is the property of NotReal003 unless otherwise noted. It is protected by international copyright laws.
 
 ## Usage Rights
 Visitors are permitted to browse and use the content for personal, non-commercial purposes. Any unauthorized use, including reproduction, distribution, or modification, is strictly prohibited without prior written consent.
