@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "SkyLine | Support Desk",
   description: "NotReal003 / SkyLine | Support Help Desk",
-  base: '/support',
+  base: '/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
   search: {
