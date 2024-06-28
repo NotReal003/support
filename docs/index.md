@@ -13,12 +13,6 @@ hero:
 #   - theme: alt
 #      text: API Examples
 #      link: /api-examples
-    - theme: alt
-      text: Copyright
-      link: /copyright
-    - theme: alt
-      text: Privacy Policy
-      link: /privacy
     - theme: brand
       text: Guild Application
       link: /guild-application
@@ -34,6 +28,12 @@ hero:
     - theme: alt
       link: /bot-tos
       text: Our Bot(s) Terms of Service
+    - theme: alt
+      text: Copyright
+      link: /copyright
+    - theme: alt
+      text: Privacy Policy
+      link: /privacy
 features:
 #  - title: Social Site
 #    details: Visit my Social Site.
