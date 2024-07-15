@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "SkyLine Guild"
+  name: "NotReal003"
   text: "Helpdesk"
   tagline: Welcome to the our (SkyLine/NotReal003) helpdesk!
   actions:
