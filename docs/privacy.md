@@ -1,6 +1,7 @@
 # Privacy Policy | Data collection by us.
 
-Last Update: 08/08/2024 (IST)
+> Last Update: 08/08/2024 (IST)
+
 As mentioned on our **[Social Site](https://notreal003.github.io/social) »** No data is collected from users on this website. Your privacy is important to us, and we do not store or process any personal information. Feel free to explore our content without concerns about your data being collected.
 
 # Request Page
@@ -11,7 +12,7 @@ __From now we have started collecting users' data.__
 
 - Do we share this data?
 
-> Obviously NO.
+> Obviously NO, we do not share y user's personal data and it's for internal uses if needed.
 
 - Who has access to check my IP?
 
