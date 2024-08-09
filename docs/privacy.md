@@ -12,7 +12,7 @@ __From now we have started collecting users' data.__
 
 - Do we share this data?
 
-> Obviously NO, we do not share y user's personal data and it's for internal uses if needed.
+> Obviously NO, we do not share any user's personal data and it's only for internal uses if needed.
 
 - Who has access to check my IP?
 
