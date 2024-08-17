@@ -1,6 +1,6 @@
 # Privacy Policy | Data collection by us.
 
-> Last Update: 08/08/2024 (IST)
+> Last Update: 17/08/2024 (IST)
 
 As mentioned on our **[Social Site](https://notreal003.github.io/social) »** No data is collected from users on this website. Your privacy is important to us, and we do not store or process any personal information. Feel free to explore our content without concerns about your data being collected.
 
@@ -8,7 +8,7 @@ As mentioned on our **[Social Site](https://notreal003.github.io/social) »** No
 
 __From now we have started collecting users' data.__
 
-- When someone login with their discord account on our [request](https://request.notreal003.xyz) page then we collect the user Discord ID, Username and Avatar, we also collect the user IP address for security purposes.
+- When someone login with their discord account on our [request](https://request.notreal003.xyz) page then we collect the user Discord ID, User Discord connected Email (for notifications), Username and Avatar, we also collect the user IP address for security purposes.
 
 - Do we share this data?
 
