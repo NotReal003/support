@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "SkyLine | Support Desk",
+  title: "NotReal003 | Support Desk",
   description: "NotReal003 / SkyLine | Support Help Desk",
   base: '/',
   themeConfig: {
@@ -16,10 +16,10 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'SkyLine Status Page', link: 'https://oneuptime.com/status-page/7e83d796-d2af-42b5-8a08-2bb88258546a' },
-      { text: 'Guild Application', link: 'https://notreal003.github.io/submissions/guild-application' },
-      { text: 'Main Social Site', link: 'https://notreal003.github.io' },
-      { text: 'Player Check', link: 'https://notreal003.github.io/player' },
+      { text: 'Social Page', link: 'https://notreal003.github.io' },
+      { text: 'Request Page', link: 'https://request.notreal003.xyz' },
+      { text: 'Player Stats Page', link: 'https://notreal003.github.io/player' },
+      { text: 'SkyLine Status Page', link: 'https://status.notreal003.xyz' },
     ],
 
     sidebar: [
@@ -35,6 +35,7 @@ export default defineConfig({
         text: 'Important Articles',
         items: [
           { text: 'Data Collections', link: '/privacy' },
+          { text: 'Terms of Service', link: '/terms' },
           { text: 'Privacy Policy', link: '/privacy' },
           { text: 'CopyRight Statement', link: '/copyright' },
           { text: 'Bot(s) Data Collections', link: '/bot:privacy-policy' },
