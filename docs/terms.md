@@ -1,5 +1,5 @@
 # Terms of Condition
-## 1. General Rules
+- 1. General Rules
 
 By using this website, you agree to follow the rules and guidelines outlined below. Failure to comply with these rules may result in your account being blocked or other actions deemed appropriate by the website owner, **NotReal003**.
 
