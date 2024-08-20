@@ -29,7 +29,7 @@ By using this website, you agree to follow the rules and guidelines outlined bel
 ## 6. Blocking and Ban Policy
 
 - **Account Blocking:** Your account may be blocked without prior notice if you violate any of the terms listed in this document. 
-- **Appeal Process:** If your account is blocked, you may contact the website owner by visiting the social page, **__[NotReal003](https://notreal003.xyz)—**, to appeal the decision. However, the decision given by us will be final.
+- **Appeal Process:** If your account is blocked, you may contact the website owner by visiting the social page, **__[NotReal003](https://notreal003.xyz)__**, to appeal the decision. However, the decision given by us will be final.
 
 ## 7. Ownership and Intellectual Property
 
