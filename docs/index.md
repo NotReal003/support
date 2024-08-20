@@ -32,12 +32,15 @@ hero:
       text: Copyright
       link: /copyright
     - theme: alt
+      text: Terms of Service
+      link: /terms
+    - theme: alt
       text: Privacy Policy
       link: /privacy
 features:
-#  - title: Social Site
-#    details: Visit my Social Site.
-#    link: https://notreal003.github.io
+  - title: Request Page
+    details: our Request Page allows you to submit requests, applications, reports and support queries.
+    link: https://request.notreal003.xyz
 #  - title: Feature B
 #    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 #  - title: Feature C
