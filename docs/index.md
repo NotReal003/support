@@ -14,6 +14,9 @@ hero:
 #      text: API Examples
 #      link: /api-examples
     - theme: brand
+      text: Request Page & API
+      link: /api
+    - theme: brand
       text: Guild Application
       link: /guild-application
     - theme: brand
