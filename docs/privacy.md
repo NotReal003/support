@@ -6,22 +6,23 @@ As mentioned on our **[Social Site](https://notreal003.github.io/social) »** No
 
 # Request Page
 
-__From now we have started collecting users' data.__
+**Notice: Now we have started collecting user data.**
 
-When someone login with their discord account or SignUp with Email address on our [request](https://request.notreal003.xyz) page then we collect the user data following:
-- Discord ID, (if singed with Discord)
-- User Email Address or Singed with Discord account connected Email,
-- Username and, Avatar,
-- We also collect the user IP address for security purposes.
-- User Device / Browser Information (user agent)
+When someone logs in with their Discord account or signs up with an email address on our [Request Page](https://request.notreal003.xyz), we collect the following data:
+
+- Discord ID (if signed in with Discord)
+- Email address (from the account used to sign in)
+- Username and avatar
+- IP address (for security purposes)
+- Device and browser information (user agent)
 
 ### Do we share this data?
 
-> Obviously NO, we do not share any user's personal data and it's only for internal uses if needed.
+> No, we do not share any user’s personal data. It is used for only internal and Security purposes, if needed.
 
-### Who has access to check my IP?
+### Who has access to view my IP address?
 
-> Only the Owner and Admin have access to it.
+> Only the Owner and Admin have access to this information.
 
 ::: tip PLEASE NOTE
 Currently, we are using Cloudflare and Railway Hosting, so we may collect some data but nothing would be personal, feel free to explore the resources provided by us.
