@@ -10,6 +10,9 @@ export default defineConfig({
   search: {
      provider: 'local'
       },
+  editLink: {
+     pattern: 'https://github.com/NotReal003/support/edit/main/docs/:path'
+    },
   footer: {
      copyright: '© 2024 Helpdesk | <a href="https://notreal003.github.io"> NotReal003 </a>'
      },
