@@ -41,12 +41,11 @@ When a GitHub Pages site is visited, the visitor's IP address is logged and stor
 
 ## Policy Changes and Other Information
 
-::: danger
-**POLICY CHANGES:** Our policy may change from time to time, so it's best to review it periodically.
+::: danger POLICY CHANGES
+Our policy may change from time to time, so it's best to review it periodically.
 :::
 
-::: details
-**Additional Information We Store:**
+::: details Additional Information We Store
 - When a player is searched on our [Player Stats Check site](https://notreal003.github.io/player), we collect the player name that was successfully searched.
 - Your submitted requests on the request page.
 :::
