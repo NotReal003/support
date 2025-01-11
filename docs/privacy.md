@@ -1,6 +1,5 @@
 # Privacy Policy
 **Last Update: 12/01/2025 (IST DD/MM/YYYY)**
-
 ## Data Collection By Us
 
 ### Social Page
