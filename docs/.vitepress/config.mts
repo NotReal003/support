@@ -38,7 +38,6 @@ export default defineConfig({
         {
         text: 'Important Articles',
         items: [
-          { text: 'Data Collections', link: '/privacy' },
           { text: 'Terms of Service', link: '/terms' },
           { text: 'Privacy Policy', link: '/privacy' },
           { text: 'CopyRight Statement', link: '/copyright' },
