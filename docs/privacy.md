@@ -1,23 +1,22 @@
 # Privacy Policy
 
-> Last Update: 12/01/2025 (IST DD/MM/YYYY)
+**Last Update: 12/01/2025 (IST DD/MM/YYYY)**
 
-# Data Collection By Us
+## Data Collection By Us
 
+### Social Page
 
-## Social Page
+As stated on our [Social Page](https://notreal003.github.io/social), we do not collect any data from users on this website. Your privacy is important to us, and we do not store or process any personal information.
 
-As mentioned on our **[Social Page](https://notreal003.github.io/social) »** No data is collected from users on this website. Your privacy is important to us, and we do not store or process any personal information. Feel free to explore our content without concerns about your data being collected.
-
-::: warning PLEASE NOTE
-We may collect the IP address due to our Anylytics API EndPoints.
+::: warning
+**PLEASE NOTE:** We may collect IP addresses due to our Analytics API EndPoints.
 :::
 
-## Request Page
+### Request Page
 
-**Notice: Now we have started collecting user data.**
+**Notice: We have started collecting user data.**
 
-When someone logs in with their Discord account or signs up with an email address on our [Request Page](https://request.notreal003.xyz), we collect the following data:
+When you log in with your Discord account or sign up with an email address on our [Request Page](https://request.notreal003.xyz), we collect the following data:
 
 - Discord ID (if signed in with Discord)
 - Email address (from the account used to sign in)
@@ -25,29 +24,32 @@ When someone logs in with their Discord account or signs up with an email addres
 - IP address (for security purposes)
 - Device and browser information (user agent)
 
-### We share data?
+#### Do We Share Data?
 
-> No, we do not share any user’s personal data. It is used for only internal and Security purposes, if needed.
+No, we do not share any user’s personal data. It is used solely for internal and security purposes if needed.
 
-### Who has access to view my IP address?
+#### Who Has Access to View My IP Address?
 
-> Only the Owner and Admin have access to this information.
+Only the Owner and Admin have access to this information.
 
-::: tip PLEASE NOTE
-Currently, we are using Cloudflare and Railway Hosting, so we may collect some data but nothing would be personal, feel free to explore the resources provided by us.
+::: tip
+**PLEASE NOTE:** We currently use Cloudflare and Railway Hosting, so some non-personal data may be collected. Feel free to explore the resources provided by us.
 :::
 
-# Data collection by Github
+## Data Collection by GitHub
 
-When a GitHub Pages site is visited, the visitor's IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub's security practices, see **[GitHub’s Privacy Statement](https://docs.github.com/en/site-policy/privacy-poliGitHub-privacy-statement)**.
+When a GitHub Pages site is visited, the visitor's IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub's privacy practices, please refer to their [Privacy Policy](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 
-# Policy Changes and other info
+## Policy Changes and Other Information
 
-::: danger POLICY CHANGES
-Our policy may change from time to time, so it's best to read it again.
+::: danger
+**POLICY CHANGES:** Our policy may change from time to time, so it's best to review it periodically.
 :::
 
-::: details Some other Info that we store!
-When a player is searched on our **[Player Stats Check site](https://notreal003.github.io/player)**, we do collect the player name which was searched successfully!
-Your submitted requests on the request page.
+::: details
+**Additional Information We Store:**
+- When a player is searched on our [Player Stats Check site](https://notreal003.github.io/player), we collect the player name that was successfully searched.
+- Your submitted requests on the request page.
 :::
+
+---
