@@ -6,8 +6,8 @@
 
 As stated on our [Social Page](https://notreal003.github.io/social), we do not collect any data from users on this website. Your privacy is important to us, and we do not store or process any personal information.
 
-::: warning
-**PLEASE NOTE:** We may collect IP addresses due to our Analytics API EndPoints.
+::: PLEASE NOTE
+We may collect IP addresses due to our Analytics API EndPoints.
 :::
 
 ### Request Page
@@ -30,8 +30,8 @@ No, we do not share any user’s personal data. It is used solely for internal a
 
 Only the Owner and Admin have access to this information.
 
-::: tip
-**PLEASE NOTE:** We currently use Cloudflare and Railway Hosting, so some non-personal data may be collected. Feel free to explore the resources provided by us.
+::: INFO
+We currently use Cloudflare and Railway Hosting, so some non-personal data may be collected. Feel free to explore the resources provided by us.
 :::
 
 ## Data Collection by GitHub
