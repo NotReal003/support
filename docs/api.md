@@ -1,4 +1,4 @@
-# Request Management System
+# Request Management Portal
 
 ## API and WebApp
 - API source code can be found **[HERE](https://github.com/NotReal003/api)**.
