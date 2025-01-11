@@ -1,12 +1,19 @@
-# Privacy Policy | Data collection by us.
+# Privacy Policy
 
-> Last Update: 4/11/2024 (IST)
+> Last Update: 12/01/2025 (IST DD/MM/YYYY)
 
-# Social Page
+# Data Collection By Us
+
+
+## Social Page
 
 As mentioned on our **[Social Page](https://notreal003.github.io/social) »** No data is collected from users on this website. Your privacy is important to us, and we do not store or process any personal information. Feel free to explore our content without concerns about your data being collected.
 
-# Request Page
+::: warning PLEASE NOTE
+We may collect the IP address due to our Anylytics API EndPoints.
+:::
+
+## Request Page
 
 **Notice: Now we have started collecting user data.**
 
@@ -33,6 +40,8 @@ Currently, we are using Cloudflare and Railway Hosting, so we may collect some d
 # Data collection by Github
 
 When a GitHub Pages site is visited, the visitor's IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub's security practices, see **[GitHub’s Privacy Statement](https://docs.github.com/en/site-policy/privacy-poliGitHub-privacy-statement)**.
+
+# Policy Changes and other info
 
 ::: danger POLICY CHANGES
 Our policy may change from time to time, so it's best to read it again.
