@@ -1,18 +1,19 @@
-# NetherGames Player Stats (unofficial)
+# Unofficial NetherGames Player Stats
 
-- Now you can check your NetherGames player stats by visiting https://notreal003.github.io/player and in the search bar enter your in-game name (IGN)
+You can now check your NetherGames player stats by visiting [our player stats page](https://notreal003.github.io/player). Simply enter your in-game name (IGN) in the search bar.
 
-### steps
+## Steps
 
-- Head over to https://notreal003.github.io/player
-- Fill in the player name
-- Enjoy
+1. Visit [our player stats page](https://notreal003.github.io/player).
+2. Enter your player name.
+3. Enjoy your stats!
 
-### Informative 
+## Important Information
+
 ::: warning PLEASE NOTE
-We do get NetherGames player stats through the NetherGames API and this is not the official way to get the player stats. You may visit [NetherGames Portal](https://ngmc.co/portal) for it too ;)
+We retrieve NetherGames player stats through the NetherGames API. This is not the official method for obtaining player stats. For official stats, please visit the [NetherGames Portal](https://ngmc.co/portal).
 :::
 
-::: tip UNDER DEVELOPMENT 
-This future is still under development and this might have some errors.
+::: tip UNDER DEVELOPMENT
+This feature is still under development and may have some errors.
 :::
