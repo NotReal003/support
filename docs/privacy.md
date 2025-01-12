@@ -34,10 +34,6 @@ Only the Owner and Admin have access to this information.
 We currently use Cloudflare and Railway Hosting, so some non-personal data may be collected. Feel free to explore the resources provided by us.
 :::
 
-## Data Collection by GitHub
-
-When a GitHub Pages site is visited, the visitor's IP address is logged and stored for security purposes, regardless of whether the visitor has signed into GitHub or not. For more information about GitHub's privacy practices, please refer to their [Privacy Policy](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
-
 ## Policy Changes and Other Information
 
 ::: danger POLICY CHANGES
