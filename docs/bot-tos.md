@@ -1,11 +1,11 @@
-# Our Bot(s) Terms of Service
+# Terms of Service for Our Bot(s)
 
-simple terms:
+## Simple Terms
 
-- Don't use Our Bot(s) for illegal stuff.
+- **Legal Compliance**: Do not use our bot(s) for any illegal activities.
 
-- Don't use Our Bot(s) to violate Discord's Terms of Service or Community Guidelines (by using Discord, you agree to their ToS from the day you create your account). If you disagree, we may remove your access.
+- **Discord Compliance**: Do not use our bot(s) in a way that violates Discord's Terms of Service or Community Guidelines. By using Discord, you agree to their Terms of Service from the day you create your account. Non-compliance may result in removal of access to our bot(s).
 
-  ::: danger PLEASE NOTE
-  We are not responsible for any actions done by you, our bot(s) may act the settings you’ve configured. We/Me/MyBot are not responsible for what was done on your Server or anywhere else.
-  :::
+::: danger PLEASE NOTE
+We are not responsible for any actions taken by you. Our bot(s) may act according to the settings you have configured. We/MyBot are not responsible for any actions taken on your server or elsewhere.
+:::
