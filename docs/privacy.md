@@ -6,7 +6,7 @@
 
 As stated on our [Social Page](https://notreal003.github.io/social), we do not collect any data from users on this website. Your privacy is important to us, and we do not store or process any personal information.
 
-::: PLEASE NOTE
+::: tip PLEASE NOTE
 We may collect IP addresses due to our Analytics API EndPoints.
 :::
 
