@@ -30,7 +30,7 @@ No, we do not share any user’s personal data. It is used solely for internal a
 
 Only the Owner and Admin have access to this information.
 
-::: INFO
+::: info INFO
 We currently use Cloudflare and Railway Hosting, so some non-personal data may be collected. Feel free to explore the resources provided by us.
 :::
 
