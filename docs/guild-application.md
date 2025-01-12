@@ -1,30 +1,23 @@
 # SkyLine Guild Application
 
-Follow those steps If you want to apply to join __SkyLine__
-## Apply with our bots
+Welcome to the SkyLine Guild application process. Please follow the steps below to apply.
 
-- The Guild application is now very simple: follow these steps.
+## Applying Through the Request Page
 
-- Join our Discord Server at https://discord.gg/sqVBrMVQmp
+You apply via our website:
 
-- Go to [#apply](https://discord.com/channels/1133013542208020531/1133428787795722302) channel.
+1. **Visit Our Application Website**
+   - [Apply here](https://request.notreal003.xyz/apply)
 
-- Click on the `Apply` button.
+2. **Submit Your Application**
+   - Login
+   - Fill in the required information.
+   - Submit the application.
 
-- Fill in your answers.
+## Review Notification
 
-- Submit the form.
+We will review your application and notify you of the outcome on our Discord server in the [#logs](https://discord.com/channels/1133013542208020531/1133428) channel.
 
-## Apply through the guild application website
+Thank you for your interest in joining the SkyLine Guild. We look forward to reviewing your application.
 
-Now you can apply to join the __SkyLine__ guild through the website.
- 
-- Head over to https://notreal003.github.io/submissions/guild-application
-
-- Fill in your answers.
-
-- Submit Application.
-
-::: tip Review Notification
-Once we review your application, we will notify you about your application being accepted or rejected on our discord server through the [#Logs](https://discord.com/channels/1133013542208020531/1133428794506608661) channel!
-:::
+---
