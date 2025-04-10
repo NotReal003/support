@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "NotReal003"
   text: "Helpdesk"
-  tagline: Welcome to the our (SkyLine/NotReal003) helpdesk!
+  tagline: Welcome to the helpdesk!
   actions:
 #    - theme: alt
 #      text: Markdown Examples
