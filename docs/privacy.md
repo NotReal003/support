@@ -31,7 +31,6 @@ Data is kept only as long as necessary for these purposes, typically up to 90 da
 When you search for a player on our [Player Stats Check site](https://notreal003.github.io/player), we collect:
 
 - **Player name**: Only for successfully searched players, stored to improve search functionality and track usage trends.
-- **Retention**: Player names are retained for up to 60 days unless otherwise needed for service improvements.
 
 No other personal data is collected from this feature.
 
