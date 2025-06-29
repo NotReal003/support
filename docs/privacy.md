@@ -16,7 +16,7 @@ As stated on our [Social Page](https://notreal003.github.io/social), we do not c
 
 **Notice: We collect user data to provide and secure our services.**
 
-When you log in with your Discord account or sign up with an email address on our [Request Page](https://request.notreal003.xyz), we collect the following data:
+When you log in with your Discord account or sign up with an email address on our [Request Page](https://request.notreal003.org), we collect the following data:
 
 - **Account ID** (for users signed in with Discord or Google): To link your account and enable login functionality.
 - **Email address** (from the account used to sign in): To verify your identity and send service-related updates.
@@ -24,7 +24,7 @@ When you log in with your Discord account or sign up with an email address on ou
 - **IP address**: For security purposes (e.g., detecting suspicious activity), retained for up to 30 days.
 - **Device and browser information (user agent)**: To optimize compatibility and troubleshoot issues, retained for up to 90 days.
 
-Data is kept only as long as necessary for these purposes, typically up to 90 days after account inactivity. To request a copy of your data or its deletion, contact us at [support@notreal003.xyz](mailto:support@notreal003.xyz).
+Data is kept only as long as necessary for these purposes, typically up to 90 days after account inactivity. To request a copy of your data or its deletion, contact us at [support@notreal003.xyz](mailto:support@notreal003.org).
 
 ### Player Stats Check
 
@@ -55,7 +55,7 @@ You have the right to:
 - Ask for corrections or updates.  
 - Request deletion of your data.  
 
-To exercise these rights, email us at [support@notreal003.xyz](mailto:support@notreal003.xyz). We’ll respond within 30 days.
+To exercise these rights, email us at [support@notreal003.xyz](mailto:support@notreal003.org). We’ll respond within 30 days.
 
 ## Policy Changes
 

@@ -12,7 +12,7 @@ By using this website, you agree to follow the rules and guidelines outlined bel
 
 - **Honesty:** Ensure that all the information you provide in forms, reports, and support requests is accurate and truthful.
 - **Misrepresentation:** Providing false or misleading information may result in the rejection of your submission and further actions against your account.
-- **Request Content View:** By submitting any requests on our [Request Page](https://request.notreal003.xyz), you allow us to view the filled content.
+- **Request Content View:** By submitting any requests on our [Request Page](https://request.notreal003.org), you allow us to view the filled content.
 
 ## 4. Privacy and Security
 
@@ -28,7 +28,7 @@ By using this website, you agree to follow the rules and guidelines outlined bel
 ## 6. Blocking and Ban Policy
 
 - **Account Blocking:** Your account may be blocked without prior notice if you violate any of the terms listed in this document.
-- **Appeal Process:** If your account is blocked, you may contact the website owner by visiting the social page, [NotReal003](https://notreal003.xyz), to appeal the decision. However, the decision of the website owner is final.
+- **Appeal Process:** If your account is blocked, you may contact the website owner by visiting the social page, [NotReal003](https://notreal003.org), to appeal the decision. However, the decision of the website owner is final.
 
 ## 7. Ownership and Intellectual Property
 
@@ -42,7 +42,7 @@ By using this website, you agree to follow the rules and guidelines outlined bel
 
 ## 9. Contact Information
 
-For any questions or concerns regarding these terms, please contact [NotReal003](https://notreal003.xyz) directly through the website's contact form or other provided contact methods.
+For any questions or concerns regarding these terms, please contact [NotReal003](https://notreal003.org) directly through the website's contact form or other provided contact methods.
 
 _Last updated: January 2025_
 ---

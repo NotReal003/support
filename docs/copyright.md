@@ -4,7 +4,7 @@ This document outlines the copyright policies for content provided by NotReal003
 
 ## Copyright Statement
 
-All content on this website or on the [NotReal003 domain](https://notreal003.xyz), including text, graphics, and code, is the property of NotReal003 unless otherwise noted. It is protected by international copyright laws.
+All content on this website or on the [NotReal003 domain](https://notreal003.org), including text, graphics, and code, is the property of NotReal003 unless otherwise noted. It is protected by international copyright laws.
 
 ## Usage Rights
 

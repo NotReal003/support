@@ -7,7 +7,7 @@ Welcome to the SkyLine Guild application process. Please follow the steps below 
 You apply via our website:
 
 1. **Visit Our Application Website**
-   - [Apply here](https://request.notreal003.xyz/apply)
+   - [Apply here](https://request.notreal003.org/apply)
 
 2. **Submit Your Application**
    - Login

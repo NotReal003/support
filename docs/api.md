@@ -3,7 +3,7 @@
 ## API and WebApp
 - **[API Source Code](https://github.com/NotReal003/api)**
 - **[Frontend WebApp Code](https://github.com/NotReal003/requests)**
-- **[Demo Page](https://request.notreal003.xyz)**
+- **[Demo Page](https://request.notreal003.org)**
 
 ## Overview
 The Request Management Portal is a comprehensive system designed for users to submit various types of requests, such as Discord reports, support requests, and guild applications. The system includes a React-based frontend and a Node.js backend with MongoDB. Key features include JWT-based authentication, email notifications, request status updates, and an admin dashboard.

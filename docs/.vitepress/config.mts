@@ -20,9 +20,9 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Social Page', link: 'https://notreal003.github.io' },
-      { text: 'Request Page', link: 'https://request.notreal003.xyz' },
+      { text: 'Request Page', link: 'https://request.notreal003.org' },
       { text: 'Player Stats Page', link: 'https://notreal003.github.io/player' },
-      { text: 'SkyLine Status Page', link: 'https://status.notreal003.xyz' },
+      { text: 'SkyLine Status Page', link: 'https://status.notreal003.org' },
     ],
 
     sidebar: [

@@ -43,7 +43,7 @@ hero:
 features:
   - title: Request Page
     details: our Request Page allows you to submit requests, applications, reports and support queries.
-    link: https://request.notreal003.xyz
+    link: https://request.notreal003.org
 #  - title: Feature B
 #    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 #  - title: Feature C
