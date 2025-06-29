@@ -21,7 +21,7 @@ bc1qrhdcy3vl2qkjjq3ufc0u70vtun4f7yfavcl6x9
 LaGrw1RgSWnhxKo1SiG9D9n4tVTVJyL2VC
 ```
 
-For more information, visit [Support Page](https://pay.notreal003.xyz).
+For more information, visit [Support Page](https://pay.notreal003.org).
 
 ## Installation
 
