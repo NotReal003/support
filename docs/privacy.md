@@ -24,7 +24,7 @@ When you log in with your Discord account or sign up with an email address on ou
 - **IP address**: For security purposes (e.g., detecting suspicious activity), retained for up to 30 days.
 - **Device and browser information (user agent)**: To optimize compatibility and troubleshoot issues, retained for up to 90 days.
 
-Data is kept only as long as necessary for these purposes, typically up to 90 days after account inactivity. To request a copy of your data or its deletion, contact us at [support@notreal003.xyz](mailto:support@notreal003.org).
+Data is kept only as long as necessary for these purposes, typically up to 90 days after account inactivity. To request a copy of your data or its deletion, contact us at [support@notreal003.org](mailto:support@notreal003.org).
 
 ### Player Stats Check
 
@@ -55,7 +55,7 @@ You have the right to:
 - Ask for corrections or updates.  
 - Request deletion of your data.  
 
-To exercise these rights, email us at [support@notreal003.xyz](mailto:support@notreal003.org). We’ll respond within 30 days.
+To exercise these rights, email us at [support@notreal003.org](mailto:support@notreal003.org). We’ll respond within 30 days.
 
 ## Policy Changes
 
