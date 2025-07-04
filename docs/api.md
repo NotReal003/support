@@ -62,7 +62,9 @@ npm start
 npx nodemon index.js
 ```
 
-> **TIP:** The API will throw an error and halt if `MONGODB_URI` is missing.
+::: danger PLEASE NOTE
+The API will throw an error and halt if `MONGODB_URI` is missing.
+:::
 
 ---
 
