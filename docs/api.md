@@ -66,8 +66,6 @@ npx nodemon index.js
 The API will throw an error and halt if `MONGODB_URI` is missing.
 :::
 
----
-
 ## 5. Authentication Workflows
 
 ### 5.1 Google OAuth
