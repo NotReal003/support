@@ -1,5 +1,9 @@
 # Request Management Portal-API — Professional Setup & Usage Guide
 
+::: danger PLEASE NOTE
+This Project is no longer an Open Source, contact our support for more information  
+:::
+
 This document provides a comprehensive, step-by-step guide to deploying, configuring, and leveraging the Request Management Portal-API (NotReal003/API). It covers prerequisites, environment setup, authentication workflows, error handling, admin operations, and best practices.
 
 ---
@@ -199,7 +203,7 @@ Content-Type: application/json
 - [Nodemailer Docs](https://nodemailer.com/about/)
 - [Mongoose Docs](https://mongoosejs.com/)
 - [Express.js Docs](https://expressjs.com/)
-- [GitHub Repository](https://github.com/NotReal003/API)
+- [GitHub Repository](https://github.com/NotReal003/API) (unavailable by July 13 2025)
 
 ---
 
