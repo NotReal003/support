@@ -151,7 +151,7 @@ This project is **NO LONGER open source** as of July 13, 2025.
 
 ## Pricing Info
 
-- **Price Range:** $20,000 – $40,000 USD  
+- **Price Range:** $10,000 – $20,000 USD  
 - **Includes:** Full source code (frontend/backend), documentation, optional setup help  
 - **Delivery:** GitHub transfer or secure archive (.zip/.tar)
 
