@@ -163,14 +163,14 @@ For negotiation or enterprise licensing, contact directly.
 
 For inquiries, live previews or offers:
 
-- **Email:** `your-email@example.com`
-- **Discord/Telegram/LinkedIn:** Contact link or username
+- **Email:** `noreply.notreal003@gmail.com`
+- Join our **[Discord Server](https://notreal003.org/discord)** and directly DM the Owner “notnt77” for any discussions.
 
 ---
 
 ## Demo or Screenshots
 
-*(Add screenshots or a link to a live hosted demo here)*
+*Will be added*
 
 ---
 
