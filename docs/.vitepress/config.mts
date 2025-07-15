@@ -49,7 +49,7 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/NotReal003' },
-      { icon: 'discord', link: 'https://discord.gg/sqVBrMVQmp' },
+      { icon: 'discord', link: 'https://notreal003.org/discord' },
       { icon: 'youtube', link: 'https://youtube.com/@notnt77?si=SnyI9neCwvr5YKOV' }
     ]
   }
