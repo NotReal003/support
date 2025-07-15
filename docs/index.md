@@ -14,6 +14,9 @@ hero:
 #      text: API Examples
 #      link: /api-examples
     - theme: brand
+      text: On Sell Requests Page & API
+      link: rmpsell
+    - theme: brand
       text: Request Page & API
       link: /api
     - theme: brand
