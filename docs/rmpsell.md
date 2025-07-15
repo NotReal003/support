@@ -196,6 +196,10 @@ Operational Page: https://request.notreal003.org
 
 **There are more useful tools but they might not have been added here.**
 
+::: tip TIP
+Discord user, API uses, Requests, Requests updated logs are not added here.
+:::
+
 ---
 
 ## Thank You
