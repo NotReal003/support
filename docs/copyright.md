@@ -16,6 +16,6 @@ If you wish to use any content from this website for educational or non-commerci
 
 ## Contact Information
 
-If you have any questions or concerns regarding the use of content from this website, please contact us through our [Discord Server](https://discord.gg/sqVBrMVQmp).
+If you have any questions or concerns regarding the use of content from this website, please contact us through our [Discord Server](https://notreal003.org/discord).
 
 &copy; 2025 NotReal003. All Rights Reserved.
