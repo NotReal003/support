@@ -173,17 +173,28 @@ For inquiries, live previews or offers:
 Operational Page: https://request.notreal003.org
 
 ### Screenshots of System
-
+- After submitting a successful request
 ![image](IMG_2946.jpeg)
+- Profile Viewer
 ![image](IMG_2947.jpeg)
+- A User Requests History with Status
 ![image](IMG_2948.jpeg)
+- Admin/Staff - All Users Requests Viewer (with status and user's name / ID)
 ![image](IMG_2949.jpeg)
+- Admin/Staff - View the requests Information and manage review message and status
 ![image](IMG_2950.jpeg)
+- User Request Viewer
 ![image](IMG_2951.jpeg)
+- All Sites and API Visits / uses analytics
 ![image](IMG_2952.jpeg)
+- AdminOnly - All Users Management
 ![image](IMG_2953.jpeg)
+- AdminOnly - View User account information with change role function
 ![image](IMG_2954.jpeg)
+- Blocking Users / IP System
 ![image](IMG_2955.jpeg)
+
+**There are more useful tools but they might not have been added here.**
 
 ---
 
