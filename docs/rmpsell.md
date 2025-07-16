@@ -1,71 +1,143 @@
-# Request Management Portal - Sell
+# 🛠️ Request Management Portal (RMP) — Fullstack Web App & API
 
-::: tip STATUS
-Production-Ready | Full Ownership & Code Transfer Available
+::: tip STATUS  
+**Production-Ready** | **Full Ownership & Code/IP Transfer Available**
 :::
 
-## Overview
-
-The **Request Management Portal** is a full-stack web application designed to manage user requests efficiently — ideal for support desks, internal ticketing, or client workflows.
-
-It features:
-- A clean, responsive **React frontend**
-- A secure, extensible **Node.js + Express backend**
-- **Role-based access**, OAuth login, and request tracking
-- Discord webhook and email integration (optional)
+The **Request Management Portal** is a complete fullstack solution for managing user requests, approvals, and role-based administration. It’s designed for internal teams, SaaS workflows, or support portals — powered by a responsive React frontend and a scalable Node.js/Express API.
 
 ---
 
-## Key Features
+## 🔍 Overview
 
-### User Side
-- Submit various request types
-- Live request status tracking (Pending, Approved, Denied, Cancelled)
-- Login via **Google OAuth** or **Discord OAuth**
-- Secure JWT-based sessions
+Built with clean architecture and secure practices, this system includes:
 
-### Admin Dashboard
-- Approve, deny, or cancel incoming requests
-- Leave review messages for users
-- Promote or demote users (admin, mod, user roles)
-- Access secured admin panel at `/admins`
-
-### Security & Logs
-- IP and device auth event logging to Discord
-- API error logs via webhook
-- JWT-secured tokens
-- `.env` based secret and credential system
-
-### Optional Features
-- Email verification with 6-digit code (via Gmail App Password)
-- GitHub OAuth integration (present in code but currently disabled)
+- A fully responsive **React frontend**
+- A robust **Node.js + Express backend**
+- **OAuth login** (Google & Discord)
+- **JWT-secured sessions** and role-based access control
+- **Discord webhook logging**, optional **email verification**
+- **Admin-only dashboards** for request and user management
 
 ---
 
-## Tech Stack
+## ✅ What You Get
 
-| Layer       | Stack                                       |
+> ⚡ **Save 150–200+ development hours** — and avoid $15,000+ of engineering effort by acquiring a ready-to-use production system with clean code and full IP rights.
+
+**Deliverables:**
+- ✅ Full source code: Frontend (React) + Backend (Node.js/Express)
+- ✅ GitHub repository (or zipped archive)
+- ✅ Setup guide with `.env.example`
+- ✅ Deployment help (optional)
+- ✅ **Exclusive ownership & IP rights transfer**
+
+---
+
+## 🧠 Key Use Cases
+
+- 📌 Support ticket system for internal or external users
+- 🧩 Base template for building MERN SaaS applications
+- 🛠️ Admin portals with request flow logic
+- 🧑‍💼 Team-based approval workflows
+
+---
+
+## 📸 UI Previews
+
+| Functionality | Screenshot |
+|--------------|------------|
+| Request Submission | ![image](IMG_2946.jpeg) |
+| Profile Viewer | ![image](IMG_2947.jpeg) |
+| Request History | ![image](IMG_2948.jpeg) |
+| Admin: View Requests | ![image](IMG_2949.jpeg) |
+| Admin: Request Review | ![image](IMG_2950.jpeg) |
+| Request Viewer | ![image](IMG_2951.jpeg) |
+| API & Site Analytics | ![image](IMG_2952.jpeg) |
+| Admin: User Manager | ![image](IMG_2953.jpeg) |
+| Admin: User Role View | ![image](IMG_2954.jpeg) |
+| Blocking Users/IPs | ![image](IMG_2955.jpeg) |
+
+---
+
+## 🧰 Tech Stack
+
+| Layer       | Tech                                         |
 |-------------|----------------------------------------------|
-| **Frontend**| React SPA with responsive design             |
-| **Backend** | Node.js + Express REST API                   |
-| **Database**| MongoDB with Mongoose                        |
-| **Auth**    | Google/Discord OAuth + JWT sessions          |
-| **Logging** | Discord Webhooks (for errors and auth events)|
+| Frontend    | React + Tailwind (SPA)                       |
+| Backend     | Node.js + Express                            |
+| Database    | MongoDB + Mongoose                           |
+| Auth        | Google & Discord OAuth + JWT                 |
+| Logging     | Discord Webhooks (errors + login events)     |
 
 ---
 
-## Setup Instructions
+## 🔐 Security & Architecture
 
-### Prerequisites
+- 🔒 JWT-based session auth
+- 🛡️ IP/device logging on login
+- 🧠 Admin-only route control
+- 📤 Email code verification (optional)
+- 💾 `.env`-driven config system
+- 📜 Discord webhooks for error & auth event logs
+
+---
+
+## 📜 Licensing & Legal
+
+::: danger LEGAL NOTICE  
+As of **July 13, 2025**, this project is **NO LONGER open source**.
+:::
+
+- 📁 Full code + IP rights will be transferred to buyer
+- 👨‍💼 Buyer can **rebrand, resell, or modify** the system for commercial use
+- 📤 Redistribution as open source or public sale is **not allowed** unless relicensed
+- 🧾 Formal IP transfer statement can be issued on request
+
+---
+
+## 💵 Pricing & Terms
+
+| Option             | Detail                                                   |
+|--------------------|----------------------------------------------------------|
+| 💰 Price Range     | $10,000 – $20,000 USD                                    |
+| 🎁 Included        | Full source code, setup guide, support, code ownership   |
+| 🚚 Delivery        | GitHub repo transfer or .zip archive                     |
+| 🧑‍💼 Licensing      | Exclusive — Buyer gets full IP rights                    |
+
+💡 *Offers below $9,000 may not be accepted unless equity/licensing terms apply.*
+
+---
+
+## 📞 Contact & Demo
+
+- 🌐 Live Demo: [https://request.notreal003.org](https://request.notreal003.org)
+- 📧 Email: `noreply.notreal003@gmail.com`
+- 💬 Discord: Join our [server](https://notreal003.org/discord) and DM `notnt77`
+
+---
+
+# 📦 Request Management Portal-API — Setup & Usage Guide
+
+::: tip  
+This section covers full technical deployment, authentication, admin workflows, and security setup for developers.
+:::
+
+## 🧾 Prerequisites
 
 - Node.js v14+
 - MongoDB Atlas or local instance
-- Google & Discord OAuth credentials
-- Gmail App Password (optional for email auth)
+- Google + Discord OAuth credentials
+- (Optional) Gmail App Password for email verification
+- Webhook URLs for Discord logging
 
-### Environment Variables (`.env`)
+---
 
-```
+## 🧪 Environment Variables
+
+Create a `.env` file with the following:
+
+```bash
 SESSION_SECRET=your_secret
 PORT=3001
 MONGODB_URI=your_mongo_uri
@@ -78,151 +150,126 @@ EMAIL=your@gmail.com
 EPASS=your_gmail_app_password
 JWT_SECRET=strong_random_value
 ADMIN_ID=admin_mongo_id
-ERROR_WEBHOOK=https://discord.com/api/webhooks/...
-USER_AUTH_WEBTOKEN=https://discord.com/api/webhooks/...
+ERROR_WEBHOOK=https://discord.com/api/webhooks/…
+USER_AUTH_WEBTOKEN=https://discord.com/api/webhooks/…
 ```
+---
 
-::: warning
-The API will throw a fatal error if `MONGODB_URI` is missing.
-:::
+## 🚀 Backend Setup Instructions
 
-### Running the App
-
-```
-git clone https://github.com/your-repo-link
+```bash
+git clone https://github.com/NotReal003/API.git
 cd API
 npm install
 cp .env.example .env
-# Edit your env vars
+# Fill in the .env fields
 npm start
+
+For development:
+
+npx nodemon index.js
 ```
 
----
+⸻
 
-## API Highlights
+### 🔑 Authentication Flows
 
-| Method | Route                                          | Description             |
-|--------|------------------------------------------------|-------------------------|
-| GET    | `/auth/internal/google`                        | Log in via Google OAuth |
-| GET    | `/auth/internal/discord`                       | Log in via Discord OAuth|
-| POST   | `/requests`                                    | Create new request      |
-| GET    | `/requests`                                    | View user's requests    |
-| PUT    | `/requests/:id/status`                         | Update request status   |
-| PATCH  | `/admins/internal/staff/manage/{userId}/role`  | Change user role        |
-
-::: tip
-GitHub and email-based auth are included in the codebase and can be enabled if needed.
-:::
+| **Provider** | **Endpoint**                     | **Notes**                                                   |
+|--------------|----------------------------------|-------------------------------------------------------------|
+| Google       | `/auth/internal/google`          | Live, session-based auth                                    |
+| Discord      | `/auth/internal/discord`         | Fully supported                                              |
+| GitHub       | `/auth/internal/github`          | **Disabled** in production (can be enabled from codebase)   |
+| Email        | `/auth/internal/e-signin`        | Optional 6-digit OTP (disabled by default)                  |
+| JWT Use      | _Used in routes like_ `/auth/internal/ip` | For IP logging, session tracking, and secure auth     |
 
 ---
 
-## What's Included
+### 📡 API Overview
 
-- Full backend: Express API with auth, roles, request logic
-- Full frontend: React-based UI with admin dashboard
-- `.env.example` template
-- Discord webhook logging
-- Setup documentation
-- Code OWNERSHIP — not just a license
-- Optional support/setup help
-
----
-
-## Suggested Use Cases
-
-- Internal team request/issue tracker
-- Client-facing support portal
-- Customizable base for SaaS tools
-- Dev teams building full MERN-stack apps
+| **Method** | **Route**                                           | **Description**                 |
+|------------|-----------------------------------------------------|---------------------------------|
+| POST       | `/requests`                                         | Submit a new request            |
+| GET        | `/requests`                                         | Get user’s request history      |
+| PUT        | `/requests/:id/status`                              | Admin: update request status    |
+| PATCH      | `/admins/internal/staff/manage/:userId/role`        | Admin: change user role         |
+| PUT        | `/admins/internal/staff/demote/:userId`             | Demote user                     |
 
 ---
 
-## Legal & License
+### 👑 Admin Management
 
-::: danger
-This project is **NO LONGER open source** as of July 13, 2025.
-:::
+- **Admin Panel UI**:  
+  Visit `/admins` in the browser — serves protected React-based admin interface.
 
-- IP and full code ownership transfers to the buyer.
-- Buyer may modify and use for any commercial project.
-- Future public distribution (including FOSS) is restricted unless re-licensed.
+- **Promote User to Admin:**
+  ```http
+  PATCH /admins/internal/staff/manage/{userId}/role
+  Content-Type: application/json
 
----
+  {
+    "role": "admin"
+  }
+  ```
 
-## Pricing Info
+- Only admins or owner: true can assign roles
 
-- **Price Range:** $10,000 – $20,000 USD  
-- **Includes:** Full source code (frontend/backend), documentation, optional setup help  
-- **Delivery:** GitHub transfer or secure archive (.zip/.tar)
+⸻
 
-For negotiation or enterprise licensing, contact directly.
+🛡️ Security, Logs & Error Handling
+- Discord webhook logs:
+- ERROR_WEBHOOK: uncaught server errors
+- USER_AUTH_WEBTOKEN: IP/device login events
+- Sensitive routes require JWTs or session cookies
+- .env-based config keeps secrets out of version control
+- HTTPS recommended for deployment
 
----
+⸻
 
-## Contact
+💡 Best Practices
+- Use strong values for JWT_SECRET, SESSION_SECRET
+- Always configure OAuth redirect URIs correctly
+- Do not commit .env files
+- Secure cookies in production
+- Disable unused auth flows unless needed
 
-For inquiries, live previews or offers:
+⸻
 
-- **Email:** `noreply.notreal003@gmail.com`
-- Join our **[Discord Server](https://notreal003.org/discord)** and directly DM the Owner “notnt77” for any discussions.
+🎨 Frontend Features & Setup
 
----
+🔧 Frontend Features
+- Request Form Pages: Users can submit various types of requests, including reports, support requests, and applications.
+- Authentication: JWT-based login/logout with dynamic status display in the navbar.
+- Admin Panel: Administrators can view, approve, reject, or cancel requests and leave review messages.
+- User Dashboard: Users can view their request history and status updates.
+- Responsive Design: Optimized for various devices using modern design practices.
+- More Features: Some features are not listed here.
 
-## Demo or Screenshots
+🚀 Frontend Setup
+	1.	Clone the repository:
+git clone https://github.com/NotReal003/Requests.git
+	2.	Install dependencies:
+npm install
+	3.	Create a .env file and add your API URL:
+ 
+```bash
+REACT_APP_API=your_api_url
+CI=false
+```
 
-Operational Page: https://request.notreal003.org
 
-### Screenshots of System
-- After submitting a successful request
+	4.	Start the React app:
+ 
+ ```bash
+npm start (for development)
+npm run build for production (output will be in /build)
+```
 
-![image](IMG_2946.jpeg)
+⸻
 
-- Profile Viewer
+🙏 Final Note
 
-![image](IMG_2947.jpeg)
+You’re viewing the complete documentation and business offer for the Request Management Portal — a powerful, customizable MERN-stack system ready for production.
 
-- A User Requests History with Status
-
-![image](IMG_2948.jpeg)
-
-- Admin/Staff - All Users Requests Viewer (with status and user's name / ID)
-
-![image](IMG_2949.jpeg)
-
-- Admin/Staff - View the requests Information and manage review message and status
-
-![image](IMG_2950.jpeg)
-
-- User Request Viewer
-
-![image](IMG_2951.jpeg)
-
-- All Sites and API Visits / uses analytics
-
-![image](IMG_2952.jpeg)
-
-- AdminOnly - All Users Management
-
-![image](IMG_2953.jpeg)
-
-- AdminOnly - View User account information with change role function
-
-![image](IMG_2954.jpeg)
-
-- Blocking Users / IP System
-
-![image](IMG_2955.jpeg)
-
-`There are more useful tools but they might not have been added here.`
-
-::: tip TIP
-Discord user, API uses, Requests, Requests updated logs are not added here.
-:::
+Reach out if you’re interested in buying, deploying, or customizing.
 
 ---
-
-## Thank You
-
-You're viewing the documentation for the **Request Management Portal** – a modern, secure, and scalable web application for teams, admins, and developers alike.
-
-Need help deploying it? Reach out — we’re here to assist.
