@@ -245,23 +245,28 @@ npx nodemon index.js
 - More Features: Some features are not listed here.
 
 🚀 Frontend Setup
-	1.	Clone the repository:
+1. Clone the repository
+
+```bash
 git clone https://github.com/NotReal003/Requests.git
-	2.	Install dependencies:
+```
+2. Install dependencies:
+
+```bash
 npm install
-	3.	Create a .env file and add your API URL:
+```
+3. Create a .env file and add your API URL:
  
 ```bash
 REACT_APP_API=your_api_url
 CI=false
 ```
 
-
-	4.	Start the React app:
+4. Start the React app:
  
  ```bash
 npm start (for development)
-npm run build for production (output will be in /build)
+npm run build (for production (output will be in /build))
 ```
 
 ⸻
