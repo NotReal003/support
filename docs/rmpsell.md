@@ -1,7 +1,7 @@
 # 🛠️ Request Management Portal (RMP) — Fullstack Web App & API
 
 ::: tip STATUS  
-**Production-Ready** | **Full Ownership & Code/IP Transfer Available**
+**Production-Ready** | **License-Based Distribution Model** available at __[store.notreal003.org](https://store.notreal003.org)__
 :::
 
 The **Request Management Portal** is a complete fullstack solution for managing user requests, approvals, and role-based administration. It’s designed for internal teams, SaaS workflows, or support portals — powered by a responsive React frontend and a scalable Node.js/Express API.
@@ -23,14 +23,33 @@ Built with clean architecture and secure practices, this system includes:
 
 ## ✅ What You Get
 
-> ⚡ **Save 150–200+ development hours** — and avoid $15,000+ of engineering effort by acquiring a ready-to-use production system with clean code and full IP rights.
+> ⚡ **Save 150–200+ development hours** — and avoid $15,000+ of engineering effort by acquiring a ready-to-use production system with clean code.
 
 **Deliverables:**
 - ✅ Full source code: Frontend (React) + Backend (Node.js/Express)
 - ✅ GitHub repository (or zipped archive)
 - ✅ Setup guide with `.env.example`
 - ✅ Deployment help (optional)
-- ✅ **Exclusive ownership & IP rights transfer**
+- ✅ **Commercial-use license (Personal, Developer, or Extended)**
+
+---
+
+## 💵 Licensing & Pricing
+
+Choose the license that best fits your needs:
+
+| License Tier     | Price | Features                                                                 |
+|------------------|-------|--------------------------------------------------------------------------|
+| Personal         | $49   | Use for personal or non-commercial project                               |
+| Developer        | $99   | Use in 1 commercial product (no resale)                                  |
+| Extended         | $199  | White-label, resell, modify, and deploy commercially with attribution    |
+
+- 📁 Code is licensed, not open-source
+- 🔑 Each license allows deployment with limits described
+- 🚫 Redistribution or public sale is not permitted without Extended License
+- 💼 No IP or repository ownership is transferred
+
+### 👉 GET NOW ON: __https://store.notreal003.org__
 
 ---
 
@@ -96,22 +115,9 @@ As of **July 13, 2025**, this project is **NO LONGER open source**.
 
 ---
 
-## 💵 Pricing & Terms
-
-| Option             | Detail                                                   |
-|--------------------|----------------------------------------------------------|
-| 💰 Price Range     | $10,000 – $20,000 USD                                    |
-| 🎁 Included        | Full source code, setup guide, support, code ownership   |
-| 🚚 Delivery        | GitHub repo transfer or .zip archive                     |
-| 🧑‍💼 Licensing      | Exclusive — Buyer gets full IP rights                    |
-
-💡 *Offers below $9,000 may not be accepted unless equity/licensing terms apply.*
-
----
-
 ## 📞 Contact & Demo
 
-- 🌐 Live Demo: [https://request.notreal003.org](https://request.notreal003.org)
+- 🌐 Live Demo: [request.notreal003.org](https://request.notreal003.org)
 - 📧 Email: `noreply.notreal003@gmail.com`
 - 💬 Discord: Join our [server](https://notreal003.org/discord) and DM `notnt77`
 
