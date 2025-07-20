@@ -108,14 +108,18 @@ All the screenshots shown below are taken from the currently operational [reques
 
 ## 📜 Licensing & Legal
 
-::: danger LEGAL NOTICE  
-As of **July 13, 2025**, this project is **NO LONGER open source**.
+::: warning LEGAL NOTICE  
+As of **July 13, 2025**, this project is **NO LONGER open source** and is now distributed under a **paid license**.
 :::
 
-- 📁 Full code + IP rights will be transferred to buyer
-- 👨‍💼 Buyer can **rebrand, resell, or modify** the system for commercial use
-- 📤 Redistribution as open source or public sale is **not allowed** unless relicensed
-- 🧾 Formal IP transfer statement can be issued on request
+- 📄 Buyers receive a **commercial license** based on the selected tier:
+  - **Personal License ($49)**: Use for personal or internal projects. No redistribution or resale.
+  - **Developer License ($99)**: Use in unlimited client/commercial projects. No resale or white-labeling.
+  - **Extended License ($199)**: Includes white-label rights and permission to integrate into commercial SaaS or resell as part of a larger product.
+- 🧑‍💼 You may **use, modify, and integrate** the code based on your license tier
+- ❌ Redistribution, public listing, or resale is **not allowed** under Personal/Developer tiers
+- ✅ Extended license allows **white-label use** and resale/integration into other commercial platforms
+- 🧾 A formal **license document** is included with every purchase
 
 ---
 
