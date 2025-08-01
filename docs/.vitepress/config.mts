@@ -8,7 +8,7 @@ export default defineConfig({
   
   // section to include the script on all pages
   head: [
-    ['script', { src: 'https://github.com/NotReal003/status-redirect/blob/main/support-collect.js' }]
+    ['script', { src: 'https://status.notreal003.org/support-collect.js' }]
   ],
   
   themeConfig: {
