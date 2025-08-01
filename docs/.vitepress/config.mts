@@ -5,16 +5,22 @@ export default defineConfig({
   title: "NotReal003 | Support Desk",
   description: "NotReal003 | Support Help Desk",
   base: '/',
+  
+  // section to include the script on all pages
+  head: [
+    ['script', { src: 'https://github.com/NotReal003/status-redirect/blob/main/support-collect.js' }]
+  ],
+  
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-  search: {
+    search: {
      provider: 'local'
       },
-  editLink: {
+    editLink: {
      pattern: 'https://github.com/NotReal003/support/edit/main/docs/:path'
     },
-  footer: {
-     copyright: '© 2024 Helpdesk | <a href="https://notreal003.github.io"> NotReal003 </a>'
+    footer: {
+     copyright: '© 2025 Helpdesk | <a href="https://notreal003.github.io"> NotReal003 </a>'
      },
 
     nav: [
