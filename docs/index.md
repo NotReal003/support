@@ -14,8 +14,8 @@ hero:
 #      text: API Examples
 #      link: /api-examples
     - theme: brand
-      text: On Sell Requests Page & API
-      link: rmpsell
+      text: Sentralia & API
+      link: /rmp
     - theme: brand
       text: Request Page & API
       link: /api
