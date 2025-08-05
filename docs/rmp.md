@@ -1,10 +1,10 @@
-# 🛠️ Request Management Portal (RMP) — Fullstack Web App & API
+# 🛠️ Sentralia
 
 ::: tip STATUS  
 **Production-Ready** | **License-Based Distribution Model** available at __[store.notreal003.org](https://store.notreal003.org)__
 :::
 
-The **Request Management Portal** is a complete fullstack solution for managing user requests, approvals, and role-based administration. It’s designed for internal teams, SaaS workflows, or support portals — powered by a responsive React frontend and a scalable Node.js/Express API.
+The **Sentralia** is a complete fullstack solution for managing user requests, approvals, and role-based administration. It’s designed for internal teams, SaaS workflows, or support portals — powered by a responsive React frontend and a scalable Node.js/Express API.
 
 ---
 
@@ -131,7 +131,7 @@ As of **July 13, 2025**, this project is **NO LONGER open source** and is now di
 
 ---
 
-# 📦 Request Management Portal-API — Setup & Usage Guide
+# 📦 Sentralia — Setup & Usage Guide
 
 ::: tip  
 This section covers full technical deployment, authentication, admin workflows, and security setup for developers.
@@ -288,7 +288,9 @@ npm run build (for production (output will be in /build))
 
 🙏 Final Note
 
-You’re viewing the complete documentation and business offer for the Request Management Portal — a powerful, customizable MERN-stack system ready for production.
+- Sentralia was known as Request Management Portal
+
+You’re viewing the complete documentation and business offer for the Sentralia — a powerful, customizable MERN-stack system ready for production.
 
 Reach out if you’re interested in buying, deploying, or customizing.
 
