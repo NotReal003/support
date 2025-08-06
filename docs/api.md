@@ -1,16 +1,16 @@
-# Request Management Portal-API — Professional Setup & Usage Guide
+#  — Professional Setup & Usage Guide
 
 ::: danger PLEASE NOTE
 This Project is no longer an Open Source, contact our support for more information  
 :::
 
-This document provides a comprehensive, step-by-step guide to deploying, configuring, and leveraging the Request Management Portal-API (NotReal003/API). It covers prerequisites, environment setup, authentication workflows, error handling, admin operations, and best practices.
+This document provides a comprehensive, step-by-step guide to deploying, configuring, and leveraging Sentralia. It covers prerequisites, environment setup, authentication workflows, error handling, admin operations, and best practices.
 
 ---
 
 ## 1. Overview
 
-**Request Management Portal-API** is a Node.js/Express backend for managing user requests, authentication, and administration through multiple OAuth providers (Google, Discord, and GitHub), as well as (optionally) email-based flows. It supports role-based access control and integrates with Discord webhooks for audit logging and error reporting.
+**Sentralia** is a Node.js/Express backend for managing user requests, authentication, and administration through multiple OAuth providers (Google, Discord, and GitHub), as well as (optionally) email-based flows. It supports role-based access control and integrates with Discord webhooks for audit logging and error reporting.
 
 ---
 
