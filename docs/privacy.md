@@ -1,6 +1,6 @@
 # Privacy Policy
-**Last Updated: 06/04/2025 (DD/MM/YYYY)**  
-**Version: 1.0**
+**Last Updated: 21/10/2025 (DD/MM/YYYY)**  
+**Version: 1.1**
 
 ## Data Collection
 
@@ -14,17 +14,20 @@ As stated on our [Social Page](https://notreal003.github.io/social), we do not c
 
 ### Request Page
 
-**Notice: We collect user data to provide and secure our services.**
+**Notice: We collect user data to provide, secure, and improve our services.**
 
 When you log in with your Discord account or sign up with an email address on our [Request Page](https://request.notreal003.org), we collect the following data:
 
-- **Account ID** (for users signed in with Discord or Google): To link your account and enable login functionality.
-- **Email address** (from the account used to sign in): To verify your identity and send service-related updates.
-- **Username and avatar**: To personalize your experience on the site.
-- **IP address**: For security purposes (e.g., detecting suspicious activity), retained for up to 30 days.
-- **Device and browser information (user agent)**: To optimize compatibility and troubleshoot issues, retained for up to 90 days.
+- **Account ID** (for users signed in with Discord or Google): To link your account and enable login functionality.  
+- **Email address**: To verify your identity, send service-related updates, and (where applicable) promotional or informational emails.  
+- **Username and avatar**: To personalize your experience on the site.  
+- **IP address**: For security purposes (e.g., detecting suspicious activity).  
+- **Device and browser information (user agent)**: To optimize compatibility and troubleshoot issues.  
 
-Data is kept only as long as necessary for these purposes, typically up to 90 days after account inactivity. To request a copy of your data or its deletion, contact us at [support@notreal003.org](mailto:support@notreal003.org).
+All collected data is retained **until the service is permanently discontinued** and becomes unavailable. This ensures historical, operational, and security continuity.
+
+To request access or deletion of your data, contact [support@notreal003.org](mailto:support@notreal003.org).  
+However, **response timelines (7, 30, or 90 days) are not guaranteed**, and your request **may be denied or rejected** depending on operational capacity, legal, or technical reasons.
 
 ### Player Stats Check
 
@@ -34,36 +37,82 @@ When you search for a player on our [Player Stats Check site](https://notreal003
 
 No other personal data is collected from this feature.
 
-#### Data Sharing Policy
+---
 
-We do not sell, trade, or share your personal data with third parties for marketing purposes. All collected data is used solely for internal operations (e.g., service delivery) and security. Our hosting providers, Cloudflare and Railway, process non-personal data (e.g., traffic logs) as part of their services but do not receive personal information for sharing.
+## Data Sharing Policy
 
-#### Access to Personal Data
+We **do not sell** your personal data to third parties.  
+However, we **may share certain data** with trusted third-party partners for the following purposes:
 
-Only the Owner and Admin have access to sensitive information like IP addresses and account details, ensuring strict control over your data.
+- **Analytics and performance tracking** (e.g., Cloudflare, Railway, Google Analytics).  
+- **Email delivery and communication** (e.g., Gmail API or related services).  
+- **Advertisement delivery** and promotional campaigns.  
+- **Legal or security compliance**, if required by law enforcement or regulatory authorities.
+
+All such third parties are required to handle data responsibly and only use it for the specified operational or service-related purposes.
+
+---
+
+## Advertising and Promotions
+
+By using our services, you agree that we may use your **email address or associated contact information** to send:
+
+- Service updates and announcements.  
+- Promotional offers, newsletters, or ads related to our products or services.  
+- Limited third-party offers relevant to our audience.  
+
+You can **opt out** of promotional communications at any time by clicking the "unsubscribe" link in our emails or by contacting us at [support@notreal003.org](mailto:support@notreal003.org).  
+Opt-out requests will be processed when feasible, but response or removal timeframes are **not guaranteed**.
+
+---
+
+## Access to Personal Data
+
+Only the **Owner and Admin** have access to sensitive information such as IP addresses and account details, ensuring strict control over your data.
 
 ::: info ADDITIONAL INFORMATION
-We use Cloudflare (for security and performance) and Railway Hosting (for website hosting). These services may collect non-personal data, such as IP addresses or usage statistics, as part of their standard operations. For more details, see:  
+We use Cloudflare (for security and performance) and Railway Hosting (for website hosting).  
+These services may collect non-personal data, such as IP addresses or usage statistics, as part of their standard operations.  
+For more details, see:  
 - [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/)  
 - [Railway Privacy Policy](https://railway.app/legal/privacy)  
 :::
 
-## Your Rights (Future being developed)
+---
+
+## Your Rights (In Development)
 
 You have the right to:  
 - Request access to your personal data.  
 - Ask for corrections or updates.  
 - Request deletion of your data.  
+- Opt out of promotional communications.  
 
-To exercise these rights, email us at [support@notreal003.org](mailto:support@notreal003.org). We’ll respond within 30 days.
+All such requests must be made via email at [support@notreal003.org](mailto:support@notreal003.org).  
+Please note that **we are not obligated to respond within a fixed timeframe**, and **requests may be rejected** for operational, legal, or technical reasons.
+
+---
+
+## Data Retention
+
+All collected data (including account, IP, request, and analytics data) is **retained indefinitely** until we **fully discontinue our services** and the associated platform becomes **permanently unavailable**.  
+Once discontinued, all stored data will be securely deleted.
+
+---
 
 ## Policy Changes
 
 ::: danger POLICY UPDATES
-This policy may change as our services evolve. Minor updates will be reflected here with a new date and version number. For significant changes (e.g., new data collection practices), we’ll not be notifying users via email or a notice on our site. We recommend reviewing this page periodically.
+This policy may change as our services evolve.  
+Minor updates will be reflected here with a new date and version number.  
+For significant changes (e.g., new data collection or sharing practices), we’ll update this page without prior notice.  
+We recommend reviewing this policy periodically to stay informed.
 :::
 
+---
+
 ::: details ADDITIONAL INFORMATION WE STORE
-- **Request Page Submissions**: We store your submitted requests along with the Display Name used.
+- **Request Page Submissions**: We store your submitted requests along with the Display Name used.  
 - **Player Stats Check**: Successfully searched player names are stored as noted above.  
+- **Analytics Data**: Aggregated usage statistics, such as session duration and referrer pages, are stored for performance optimization.  
 :::
