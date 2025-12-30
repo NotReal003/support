@@ -5,7 +5,7 @@ outline: deep
 
 # 🤝 Join the Sentralia Creator Program
 
-![Sentralia x Tebex Creator Program Banner](/banner.JPEG)
+![Sentralia x Tebex Creator Program Banner](banner.JPEG)
 
 Become a partner and earn revenue by promoting Sentralia. As a creator, you will receive a unique **Creator Code**. When your community uses this code at checkout, they get a discount, and you earn a percentage of the sale.
 
