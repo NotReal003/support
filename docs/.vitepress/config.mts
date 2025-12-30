@@ -45,7 +45,7 @@ export default defineConfig({
         text: 'Partner Program',
         items: [
           // Added the new Creator Application file here
-          { text: 'Apply for Creator Code', link: '/creator-application' } 
+          { text: 'Apply for Creator Code', link: '/creator-code' } 
         ]
       },
       {
