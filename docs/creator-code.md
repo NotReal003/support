@@ -5,6 +5,8 @@ outline: deep
 
 # 🤝 Join the Sentralia Creator Program
 
+![Sentralia x Tebex Creator Program Banner](/banner.JPEG)
+
 Become a partner and earn revenue by promoting Sentralia. As a creator, you will receive a unique **Creator Code**. When your community uses this code at checkout, they get a discount, and you earn a percentage of the sale.
 
 ::: info How it works
@@ -46,7 +48,7 @@ Once your wallet is set up, we need your unique **Wallet Reference** to link you
 
 To request your code, you must submit a formal ticket through our support portal.
 
-**Submit your Application at:** https://request.notreal003.org/support
+**Submit your Application at:** [https://request.notreal003.org/support](https://request.notreal003.org/support)
 
 ::: danger IMPORTANT: Provide Information At Once
 To ensure a fast approval process, please provide **all** the following details in your initial request description. Incomplete requests will be closed automatically.
