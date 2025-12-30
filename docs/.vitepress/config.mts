@@ -5,33 +5,49 @@ export default defineConfig({
   title: "NotReal003 | Support Desk",
   description: "NotReal003 | Support Help Desk",
   base: '/',
-  
-  // section to include the script on all pages
+
+  // Section to include the script on all pages
   head: [
     ['script', { src: 'https://status.notreal003.org/support-collect.js' }]
   ],
-  
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     search: {
-     provider: 'local'
-      },
-    editLink: {
-     pattern: 'https://github.com/NotReal003/support/edit/main/docs/:path'
+      provider: 'local'
     },
+    
+    editLink: {
+      pattern: 'https://github.com/NotReal003/support/edit/main/docs/:path'
+    },
+    
     footer: {
-     copyright: '© 2025 Helpdesk | <a href="https://notreal003.github.io"> NotReal003 </a>'
-     },
+      copyright: '© 2025 Helpdesk | <a href="https://notreal003.github.io"> NotReal003 </a>'
+    },
 
+    // Organized Navigation Bar with Dropdowns
     nav: [
       { text: 'Home', link: '/' },
+      { 
+        text: 'Services & Tools', 
+        items: [
+          { text: 'Request Page', link: 'https://request.notreal003.org' },
+          { text: 'Player Stats', link: 'https://notreal003.github.io/player' },
+          { text: 'SkyLine Status', link: 'https://status.notreal003.org' },
+        ]
+      },
       { text: 'Social Page', link: 'https://notreal003.github.io' },
-      { text: 'Request Page', link: 'https://request.notreal003.org' },
-      { text: 'Player Stats Page', link: 'https://notreal003.github.io/player' },
-      { text: 'SkyLine Status Page', link: 'https://status.notreal003.org' },
     ],
 
+    // Categorized Sidebar
     sidebar: [
+      {
+        text: 'Partner Program',
+        items: [
+          // Added the new Creator Application file here
+          { text: 'Apply for Creator Code', link: '/creator-application' } 
+        ]
+      },
       {
         text: 'Applications / Stats',
         items: [
@@ -41,12 +57,12 @@ export default defineConfig({
           { text: 'Invite Our Discord Bot', link: 'https://notreal003.github.io/invite' }
         ]
       },
-        {
-        text: 'Important Articles',
+      {
+        text: 'Legal & Policies',
         items: [
           { text: 'Terms of Service', link: '/terms' },
           { text: 'Privacy Policy', link: '/privacy' },
-          { text: 'CopyRight Statement', link: '/copyright' },
+          { text: 'Copyright Statement', link: '/copyright' },
           { text: 'Bot(s) Data Collections', link: '/bot:privacy-policy' },
           { text: 'Bot(s) Terms of Service', link: '/bot-tos' }
         ]
