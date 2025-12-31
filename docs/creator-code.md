@@ -69,3 +69,8 @@ Funds earned via Creator Codes are usually settled after **30 days** to account 
 
 **Can I change my code later?**
 Codes are permanent once created, but exceptions can be made for rebranding. Please contact support.
+
+::: info ABOUT TEBEX WALLET AND CREATOR CODE
+- [Tebex Creator Code](https://docs.tebex.io/creators/tebex-control-panel/engagement/creator-codes)
+- [Tebex Wallet](https://docs.tebex.io/creators/tebex-checkout/wallet)
+:::
