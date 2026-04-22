@@ -1,6 +1,5 @@
 # Privacy Policy
-**Last Updated: 28/12/2025 (DD/MM/YYYY)**
-**Version: 1.2**
+**Last Updated: 22/04/2026 (DD/MM/YYYY)**
 
 ## Data Collection
 
