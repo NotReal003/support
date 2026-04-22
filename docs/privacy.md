@@ -4,11 +4,11 @@
 
 ## Data Collection
 
-### Social Page
-
-::: tip IMPORTANT NOTICE
-We collect IP addresses via our Analytics API EndPoints to monitor site usage and performance.
+::: danger IMPORTANT NOTICE
+We collect IP addresses for every incoming request to our API. This data is utilized by our Analytics API EndPoints to monitor site usage, optimize performance, and ensure the security and stability of our services.
 :::
+
+### Social Page
 
 As stated on our [Social Page](https://notreal003.github.io/social), we do not collect personal data from users on this section of our website, except for IP addresses as noted above. These are gathered through tools like Cloudflare Insights to help us understand site traffic trends. Your privacy is paramount to us, and no other identifying information is stored or processed from this page.
 
@@ -18,7 +18,7 @@ As stated on our [Social Page](https://notreal003.github.io/social), we do not c
 
 When you log in with your Discord account or sign up with an email address on our [Request Page](https://request.notreal003.org), we collect the following data:
 
-- **Account ID** (for users signed in with Discord or Google): To link your account and enable login functionality.
+- **Account ID:** (for users signed in with Discord or Google): To link your account and enable login functionality.
 - **Email address**: To verify your identity and send service-related updates.
 - **Username and avatar**: To personalize your experience on the site.
 - **IP address**: For security purposes (e.g., detecting suspicious activity).
