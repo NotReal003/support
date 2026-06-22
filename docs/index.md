@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Closure Announcement
-      link: /closure-annoucement
+      link: /closure-announcement
     - theme: brand
       text: Sentralia & API
       link: /rmp
