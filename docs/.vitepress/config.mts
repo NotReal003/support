@@ -45,7 +45,7 @@ export default defineConfig({
         text: 'Announcement,
         items: [
           // Added the new Creator Application file here
-          { text: 'Closure Announcement, link: '/closure-Announcement' } 
+          { text: 'Closure Announcement', link: '/closure-announcement' } 
         ]
       }
       {
