@@ -42,7 +42,7 @@ export default defineConfig({
     // Categorized Sidebar
     sidebar: [
       {
-        text: 'Announcement,
+        text: 'Announcement',
         items: [
           // Added the new Creator Application file here
           { text: 'Closure Announcement', link: '/closure-announcement' } 
