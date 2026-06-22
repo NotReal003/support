@@ -1,4 +1,6 @@
-Hey @everyone ,
+# Closure Announcement
+
+Hey @everyone,
 
 After being operational for over a year, our domain notreal003.org will expire on 28 June 2026. As a result, the website and services currently running under this domain may no longer be available after that date.
 
