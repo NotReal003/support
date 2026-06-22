@@ -42,12 +42,19 @@ export default defineConfig({
     // Categorized Sidebar
     sidebar: [
       {
+        text: 'Announcement,
+        items: [
+          // Added the new Creator Application file here
+          { text: 'Closure Announcement, link: '/closure-Announcement' } 
+        ]
+      }
+      {
         text: 'Partner Program',
         items: [
           // Added the new Creator Application file here
           { text: 'Apply for Creator Code', link: '/creator-code' } 
         ]
-      },
+      }
       {
         text: 'Applications / Stats',
         items: [
