@@ -8,6 +8,9 @@ hero:
   tagline: "Welcome to the helpdesk!"
   actions:
     - theme: brand
+      text: Closure Announcement
+      link: /closure-annoucement
+    - theme: brand
       text: Sentralia & API
       link: /rmp
     - theme: brand
