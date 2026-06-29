@@ -4,7 +4,7 @@
 This Project is no longer an Open Source, contact our support for more information  
 :::
 
-This document provides a comprehensive, step-by-step guide to deploying, configuring, and leveraging Sentralia. It covers prerequisites, environment setup, authentication workflows, error handling, admin operations, and best practices.
+This document provides a comprehensive, step-by-step guide to deploying, configuring, and leveraging Sentralia. It covers prerequisites, environment setup, authentication workflows, error handling, admin operations, and best practices
 
 ---
 
