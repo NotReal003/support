@@ -1,4 +1,4 @@
-# Data Collection by Our Bot(s)
+# Data Collection by Our Bot(s).
 
 Our bot(s) handle data responsibly and securely. Here is how we manage data collection:
 
