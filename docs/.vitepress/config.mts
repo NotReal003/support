@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "NotReal003 | Support Desk",
   description: "NotReal003 | Support Help Desk",
-  base: '/',
+  base: '/support/',
 
   // Section to include the script on all pages
   head: [
