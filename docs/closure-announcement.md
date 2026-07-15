@@ -10,5 +10,5 @@ After being operational for over a year, our domain notreal003.org will expire o
 
 ::: tip OPEN SOURCE
 As 28th June 2026, sentralia is now an open source, you can find the repository at [github.com/notreal003/sentralia](https://github.com/NotReal003/sentralia).
-
+:::
 Thank you for staying with us!
