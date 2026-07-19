@@ -20,6 +20,7 @@ As our domain `notreal003.org` is expired, now there's domain changes, the follo
 - Request Page: https://request-notreal003.pages.dev (before request.notreal003.org)
 - Support Page: https://support-notreal003.pages.dev (before support.notreal003.org)
 - Sentralia Demo: https://demo-sentralia.pages.dev (before demo.sentralia.notreal003.org)
+- Donate Page: https://pay-notreal003.pages.dev (before pay.notreal003.org)
 :::
 
 Thank you for staying with us!
